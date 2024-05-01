@@ -301,30 +301,6 @@
       "description": "In Hellsalem's Lot, a city created by an intersection of worlds where New York City once stood, local crime fighting group Libra must bind together to defeat monsters, magic, and mayhem."
     },
     {
-      "id": "PkTz6TX",
-      "type": "TV Show",
-      "title": "Major Lazer",
-      "country": "United States",
-      "dateAdded": "April 18, 2015",
-      "releaseYear": 2015,
-      "rating": "TV-MA",
-      "duration": "1 Season",
-      "listedIn": "Action, Adult Animation",
-      "description": "Set in the future, the show revolves around Major Lazer, a Jamaican superhero who fights against the dystopian forces that have ruined society led by President Whitehall and General Rubbish. Major Lazer is assisted in his fight by President Whitehall's daughter Penny and hacker Blkmrkt."
-    },
-    {
-      "id": "w4M_Q1H",
-      "type": "TV Show",
-      "title": "High School DxD",
-      "country": "Japan",
-      "dateAdded": "April 15, 2015",
-      "releaseYear": 2012,
-      "rating": "TV-MA",
-      "duration": "3 Seasons",
-      "listedIn": "Anime, International, Science Fiction",
-      "description": "After being killed by a fallen angel, Issei Hyodo is brought back to life by the gorgeous president of his high school's Occult Research Club, Rias Gremory, who turns out to be a high-ranking demon. With devilish new powers, Issei is bound to serve Rias."
-    },
-    {
       "id": "vTcXXqV",
       "type": "TV Show",
       "title": "CSI: Crime Scene Investigation",
@@ -817,18 +793,6 @@
       "description": "TAXI is a half-hour comedy series that centers around the eclectic staff of a New York city cab company. While trying to deal with tyrannical dispatcher Louie De Palma (Danny DeVito), they build friendships as they struggle for success in other careers, love and life."
     },
     {
-      "id": "WOi3R_U",
-      "type": "TV Show",
-      "title": "The Odd Couple",
-      "country": "United States",
-      "dateAdded": "May 2, 2014",
-      "releaseYear": 1970,
-      "rating": "TV-PG",
-      "duration": "5 Seasons",
-      "listedIn": "Classics, Comedy, Sitcom",
-      "description": "Based on Neil Simon's hit Broadway play, \"The Odd Couple\" matches prim, compulsively neat Felix (Tony Randall) and gruff, sloppy Oscar (Jack Klugman), as divorced men comically struggling to live together in the same New York City apartment."
-    },
-    {
       "id": "vClpqb3",
       "type": "TV Show",
       "title": "Ghost Whisperer",
@@ -1187,6 +1151,18 @@
       "duration": "4 Seasons",
       "listedIn": "Crime, Drama, International",
       "description": "Modern Whitechapel is experiencing déjà vu with a series of murders that exactly copy those of perpetrated by Jack the Ripper. Can Detective Chandler, a rookie when it comes to murder cases, bring safety back to the streets of Whitechapel?"
+    },
+    {
+      "type": "Sci Fi",
+      "title": "Rick and Morty",
+      "country": "USA",
+      "dateAdded": "April 30th, 2024",
+      "description": "Cartoon version of Dr. Who ",
+      "duration": "7 Season",
+      "listedIn": "Animation",
+      "rating": "8",
+      "releaseYear": "2014",
+      "id": "HAN8NHG"
     }
   ],
   "movies": [
